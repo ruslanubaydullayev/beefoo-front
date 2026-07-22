@@ -56,12 +56,7 @@ usePageSeo({
         </div>
 
         <div class="hero__visual" aria-hidden="true">
-          <div class="hero__swatches">
-            <span class="hero__swatch" />
-            <span class="hero__swatch" />
-            <span class="hero__swatch" />
-            <span class="hero__swatch" />
-          </div>
+          <KineticText />
         </div>
       </div>
     </section>

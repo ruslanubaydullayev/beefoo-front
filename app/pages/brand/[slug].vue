@@ -1,38 +1,32 @@
 <script setup lang="ts">
-import type { BrandDetail, BrandListResponse } from '~/types/brand'
+import { queryBrand, queryBrands } from '~/utils/catalog'
 
 const route = useRoute()
 const slug = computed(() => String(route.params.slug || ''))
-// Resolve in setup — composables are unavailable after await inside useAsyncData.
-const brandsEndpoint = apiUrl('/brands')
 
 const { data: pageData, error } = await useAsyncData(
-  `brand-page-${slug.value}`,
+  () => `brand-page-${slug.value}`,
   async () => {
     const currentSlug = slug.value
     if (!currentSlug) return null
 
-    const brand = await $fetch<BrandDetail>(`${brandsEndpoint}/${currentSlug}`)
-    let related: BrandListResponse | null = null
+    const brand = queryBrand(currentSlug)
+    if (!brand) return null
 
-    if (brand.category?.slug) {
-      related = await $fetch<BrandListResponse>(brandsEndpoint, {
-        query: {
-          category: brand.category.slug,
-          page_size: 12,
-        },
-      })
-    }
+    const related = brand.category?.slug
+      ? queryBrands({ category: brand.category.slug, page_size: 12 })
+      : null
 
     return { brand, related }
   },
+  { watch: [slug] },
 )
 
 const brand = computed(() => pageData.value?.brand ?? null)
 
 if (error.value || !brand.value) {
   throw createError({
-    statusCode: (error.value as { statusCode?: number } | null)?.statusCode || 404,
+    statusCode: 404,
     statusMessage: 'Brand not found',
   })
 }
@@ -59,7 +53,7 @@ const title = computed(
 const description = computed(
   () =>
     brand.value?.meta_description
-    || `Explore ${brand.value?.name} visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeCoo.`,
+    || `Explore ${brand.value?.name} visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.`,
 )
 
 const siteUrl = useRuntimeConfig().public.siteUrl as string

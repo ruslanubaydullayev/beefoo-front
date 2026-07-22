@@ -8,15 +8,15 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: { lang: 'en' },
-      title: 'BeeCoo',
-      titleTemplate: '%s · BeeCoo',
+      title: 'BeeFoo',
+      titleTemplate: '%s · BeeFoo',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
           name: 'description',
           content:
-            'BeeCoo is a searchable visual identity database for brand colors, fonts, logos, and design systems.',
+            'BeeFoo is a searchable visual identity database for brand colors, fonts, logos, and design systems.',
         },
         { name: 'theme-color', content: '#12202a' },
       ],
@@ -33,9 +33,8 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     public: {
-      apiBase: process.env.NUXT_PUBLIC_API_BASE || 'http://localhost:8000/api/v1',
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000',
-      siteName: 'BeeCoo',
+      siteName: 'BeeFoo',
     },
   },
 

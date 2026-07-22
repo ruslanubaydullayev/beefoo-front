@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import type { BrandListResponse } from '~/types/brand'
+import { queryBrands, queryCategories } from '~/utils/catalog'
 
 const route = useRoute()
 const slug = computed(() => String(route.params.slug))
-const { listCategories } = useBrandApi()
 
-const { data: categories } = await listCategories()
-const category = computed(() => categories.value?.find((item) => item.slug === slug.value))
+const categories = queryCategories()
+const category = computed(() => categories.find((item) => item.slug === slug.value))
 
 if (!category.value) {
   throw createError({ statusCode: 404, statusMessage: 'Category not found' })
@@ -15,12 +14,12 @@ if (!category.value) {
 const { data, pending, error } = await useAsyncData(
   () => `category-brands-${slug.value}`,
   () =>
-    $fetch<BrandListResponse>(apiUrl('/brands'), {
-      query: {
+    Promise.resolve(
+      queryBrands({
         category: slug.value,
         page_size: 48,
-      },
-    }),
+      }),
+    ),
   { watch: [slug] },
 )
 
@@ -35,7 +34,7 @@ usePageSeo({
   title: `${category.value.name} Brand Identities`,
   description:
     category.value.description
-    || `Browse ${category.value.name} brands with colors, fonts, and logos on BeeCoo.`,
+    || `Browse ${category.value.name} brands with colors, fonts, and logos on BeeFoo.`,
   path: `/category/${category.value.slug}`,
 })
 </script>

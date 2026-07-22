@@ -1,6 +1,6 @@
-# BeeCoo Frontend
+# BeeFoo Frontend
 
-Nuxt 4 website for the BeeCoo visual identity database.
+Nuxt 4 website for the BeeFoo visual identity database.
 
 ## Stack
 
@@ -13,7 +13,7 @@ Nuxt 4 website for the BeeCoo visual identity database.
 Requires **Node.js 22+** (see `.nvmrc`).
 
 ```bash
-cd beecoo-front
+cd beefoo-front
 nvm use
 pnpm install
 cp .env.example .env

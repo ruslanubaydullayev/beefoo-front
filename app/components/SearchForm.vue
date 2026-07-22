@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import type { BrandListItem, SearchResponse } from '~/types/brand'
+import type { BrandListItem } from '~/types/brand'
+import { querySearch } from '~/utils/catalog'
 
 const props = withDefaults(defineProps<{
   modelValue?: string
@@ -21,7 +22,7 @@ const open = ref(false)
 const activeIndex = ref(-1)
 const loading = ref(false)
 const suggestions = ref<BrandListItem[]>([])
-let abortController: AbortController | null = null
+let requestId = 0
 
 const query = computed({
   get: () => props.modelValue,
@@ -34,10 +35,9 @@ const showPanel = computed(
   () => open.value && query.value.trim().length >= 2,
 )
 
-watch(debouncedQuery, async (value) => {
+watch(debouncedQuery, (value) => {
   const q = value.trim()
-  abortController?.abort()
-  abortController = null
+  const id = ++requestId
 
   if (q.length < 2) {
     suggestions.value = []
@@ -47,35 +47,14 @@ watch(debouncedQuery, async (value) => {
     return
   }
 
-  const controller = new AbortController()
-  abortController = controller
   loading.value = true
   open.value = true
   activeIndex.value = -1
 
-  try {
-    const result = await $fetch<SearchResponse>(apiUrl('/search'), {
-      query: {
-        q,
-        page: 1,
-        page_size: 8,
-      },
-      signal: controller.signal,
-    })
-
-    if (abortController !== controller) return
-    suggestions.value = result.items
-  }
-  catch (error) {
-    if (controller.signal.aborted) return
-    suggestions.value = []
-    console.error(error)
-  }
-  finally {
-    if (abortController === controller) {
-      loading.value = false
-    }
-  }
+  const result = querySearch(q, 1, 8)
+  if (id !== requestId) return
+  suggestions.value = result.items
+  loading.value = false
 })
 
 function onSubmit() {
@@ -134,7 +113,6 @@ onMounted(() => {
 })
 
 onBeforeUnmount(() => {
-  abortController?.abort()
   document.removeEventListener('pointerdown', onDocumentPointerDown)
 })
 </script>

@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import type { BrandListResponse } from '~/types/brand'
+import { queryBrands } from '~/utils/catalog'
 
 const route = useRoute()
-const { listCategories } = useBrandApi()
+const { listCategories } = useBrandCatalog()
 
 const page = computed(() => Number(route.query.page || 1))
 const category = computed(() => {
@@ -12,16 +13,14 @@ const category = computed(() => {
 
 const { data, pending, error } = await useAsyncData<BrandListResponse>(
   () => `brands-${category.value || 'all'}-page-${page.value}`,
-  () => {
-    const query: Record<string, string | number> = {
-      page: page.value,
-      page_size: 24,
-    }
-    if (category.value) {
-      query.category = category.value
-    }
-    return $fetch<BrandListResponse>(apiUrl('/brands'), { query })
-  },
+  () =>
+    Promise.resolve(
+      queryBrands({
+        page: page.value,
+        page_size: 24,
+        category: category.value,
+      }),
+    ),
   { watch: [page, category] },
 )
 
@@ -36,7 +35,7 @@ usePageSeo({
     ? `${activeCategoryName.value} Brands`
     : 'Browse Brand Identities',
   description:
-    'Browse BeeCoo brand pages with colors, fonts, and logos across technology, fashion, sports, finance, and more.',
+    'Browse BeeFoo brand pages with colors, fonts, and logos across technology, fashion, sports, finance, and more.',
   path: '/brands',
 })
 </script>
@@ -77,7 +76,7 @@ usePageSeo({
         Loading brands…
       </div>
       <div v-else-if="error" class="error-state">
-        Could not load brands. Is the API running on port 8000?
+        Could not load brands.
       </div>
       <div v-else-if="!data?.items?.length" class="empty-state">
         No brands found for this filter.

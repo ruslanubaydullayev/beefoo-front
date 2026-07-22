@@ -1,12 +1,12 @@
 {
-  "name": "beecoo-front",
+  "name": "beefoo-front",
   "type": "module",
   "private": true,
   "engines": {
     "node": ">=22"
   },
   "scripts": {
-    "predev": "node -e \"const m=+process.versions.node.split('.')[0]; if(m<22){console.error('BeeCoo front needs Node 22+ (oxc-parser). Current: '+process.version+'\\nRun: nvm use'); process.exit(1)}\"",
+    "predev": "node -e \"const m=+process.versions.node.split('.')[0]; if(m<22){console.error('BeeFoo front needs Node 22+ (oxc-parser). Current: '+process.version+'\\nRun: nvm use'); process.exit(1)}\"",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",

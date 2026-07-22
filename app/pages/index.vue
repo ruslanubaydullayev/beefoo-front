@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { listBrands, listCategories } = useBrandApi()
+const { listBrands, listCategories } = useBrandCatalog()
 
 const { data: featured } = await listBrands({ featured: true, page_size: 8 })
 const { data: latest } = await listBrands({ page_size: 12 })
@@ -20,7 +20,7 @@ const siteUrl = useRuntimeConfig().public.siteUrl as string
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'BeeCoo',
+  name: 'BeeFoo',
   url: siteUrl,
   potentialAction: {
     '@type': 'SearchAction',
@@ -30,7 +30,7 @@ const jsonLd = {
 }
 
 usePageSeo({
-  title: 'BeeCoo — Visual Identity Database',
+  title: 'BeeFoo — Visual Identity Database',
   description:
     'Find brand colors, fonts, and logos in one searchable visual identity database built for designers and developers.',
   path: '/',
@@ -43,7 +43,7 @@ usePageSeo({
     <section class="hero">
       <div class="page-shell hero__grid">
         <div>
-          <p class="hero__brand">BeeCoo</p>
+          <p class="hero__brand">BeeFoo</p>
           <h1 class="hero__title">
             The visual identity database for brands that designers actually use.
           </h1>

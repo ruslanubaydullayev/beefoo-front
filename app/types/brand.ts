@@ -67,6 +67,8 @@ export interface BrandDetail {
   colors: BrandColor[]
   fonts: BrandFont[]
   logos: BrandLogo[]
+  primary_color?: string | null
+  primary_logo_url?: string | null
 }
 
 export interface BrandListResponse {

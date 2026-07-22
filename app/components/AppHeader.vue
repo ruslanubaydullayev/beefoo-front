@@ -1,9 +1,9 @@
 <template>
   <header class="site-header">
     <div class="page-shell site-header__inner">
-      <NuxtLink to="/" class="brand-mark" aria-label="BeeCoo home">
+      <NuxtLink to="/" class="brand-mark" aria-label="BeeFoo home">
         <span class="brand-mark__glyph" aria-hidden="true" />
-        <span>BeeCoo</span>
+        <span>BeeFoo</span>
       </NuxtLink>
 
       <nav class="nav-links" aria-label="Primary">

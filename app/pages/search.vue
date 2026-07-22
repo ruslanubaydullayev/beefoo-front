@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { SearchResponse } from '~/types/brand'
+import { querySearch } from '~/utils/catalog'
 
 const route = useRoute()
 const query = ref(String(route.query.q || ''))
@@ -29,13 +30,7 @@ const { data, pending, error } = await useAsyncData<SearchResponse | null>(
   () => {
     const q = String(route.query.q || '').trim()
     if (!q) return Promise.resolve(null)
-    return $fetch<SearchResponse>(apiUrl('/search'), {
-      query: {
-        q,
-        page: page.value,
-        page_size: 24,
-      },
-    })
+    return Promise.resolve(querySearch(q, page.value, 24))
   },
   { watch: [() => route.query.q, page] },
 )
@@ -51,7 +46,7 @@ async function onSubmit(value: string) {
 
 usePageSeo({
   title: query.value ? `Search: ${query.value}` : 'Search Brands',
-  description: 'Search BeeCoo for brand colors, fonts, logos, industries, and countries.',
+  description: 'Search BeeFoo for brand colors, fonts, logos, industries, and countries.',
   path: '/search',
 })
 </script>
@@ -75,7 +70,7 @@ usePageSeo({
         Searching…
       </div>
       <div v-else-if="error" class="error-state" style="margin-top: 1.5rem;">
-        Search failed. Confirm the API is running.
+        Search failed. Try again.
       </div>
       <div v-else>
         <p style="margin: 1.5rem 0; color: var(--muted);">

@@ -4,19 +4,16 @@ import type { BrandListItem } from '~/types/brand'
 const props = defineProps<{ brand: BrandListItem }>()
 
 const swatches = computed(() => {
-  const color = props.brand.primary_color || '#12202a'
-  return [color, soften(color, 0.25), soften(color, 0.5), '#ffffff', '#12202a']
-})
+  const fromPalette = (props.brand.colors || [])
+    .slice()
+    .sort((a, b) => a.sort_order - b.sort_order)
+    .map((color) => color.hex)
+    .filter(Boolean)
 
-function soften(hex: string, amount: number) {
-  const value = hex.replace('#', '')
-  if (value.length !== 6) return hex
-  const r = Number.parseInt(value.slice(0, 2), 16)
-  const g = Number.parseInt(value.slice(2, 4), 16)
-  const b = Number.parseInt(value.slice(4, 6), 16)
-  const mix = (channel: number) => Math.round(channel + (255 - channel) * amount)
-  return `#${[mix(r), mix(g), mix(b)].map((n) => n.toString(16).padStart(2, '0')).join('')}`
-}
+  if (fromPalette.length) return fromPalette
+  if (props.brand.primary_color) return [props.brand.primary_color]
+  return ['#12202a']
+})
 </script>
 
 <template>
@@ -24,13 +21,11 @@ function soften(hex: string, amount: number) {
     <div class="brand-tile__top">
       <div class="brand-tile__logo">
         <BrandLogoMark
-          v-if="brand.primary_logo_url"
-          :src="brand.primary_logo_url"
+          :src="brand.primary_logo_url || `/logos/${brand.slug}.svg`"
           :alt="`${brand.name} logo`"
           :color="brand.primary_color"
           :size="28"
         />
-        <span v-else>{{ brand.name.slice(0, 1) }}</span>
       </div>
       <div>
         <h3 class="brand-tile__name">{{ brand.name }}</h3>
@@ -40,7 +35,11 @@ function soften(hex: string, amount: number) {
         </p>
       </div>
     </div>
-    <div class="palette-strip" aria-hidden="true">
+    <div
+      class="palette-strip"
+      :style="{ gridTemplateColumns: `repeat(${swatches.length}, minmax(0, 1fr))` }"
+      aria-hidden="true"
+    >
       <span v-for="(swatch, index) in swatches" :key="index" :style="{ background: swatch }" />
     </div>
   </NuxtLink>

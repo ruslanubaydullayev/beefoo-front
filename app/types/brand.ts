@@ -47,6 +47,8 @@ export interface BrandListItem {
   category?: Category | null
   primary_color?: string | null
   primary_logo_url?: string | null
+  /** Full palette for list cards — same colors as the brand detail page. */
+  colors?: BrandColor[]
 }
 
 export interface BrandDetail {

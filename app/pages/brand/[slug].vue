@@ -90,7 +90,7 @@ usePageSeo({
   title: title.value,
   description: description.value,
   path: `/brand/${brand.value.slug}`,
-  image: primaryLogo.value?.image_url,
+  image: primaryLogo.value?.image_url || `/logos/${brand.value.slug}.svg`,
   type: 'article',
 })
 
@@ -129,8 +129,7 @@ async function copyText(value: string) {
             <div class="brand-hero__identity">
               <div class="brand-hero__logo">
                 <BrandLogoMark
-                  v-if="primaryLogo"
-                  :src="primaryLogo.image_url"
+                  :src="primaryLogo?.image_url || `/logos/${brand.slug}.svg`"
                   :alt="`${brand.name} logo`"
                   :color="primaryColor"
                   :size="44"

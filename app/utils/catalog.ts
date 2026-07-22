@@ -18,6 +18,7 @@ const brands = catalog.brands as BrandDetail[]
 const categories = catalog.categories as Category[]
 
 function toListItem(brand: BrandDetail): BrandListItem {
+  const colors = [...(brand.colors || [])].sort((a, b) => a.sort_order - b.sort_order)
   return {
     id: brand.id,
     name: brand.name,
@@ -27,10 +28,11 @@ function toListItem(brand: BrandDetail): BrandListItem {
     industry: brand.industry,
     is_featured: brand.is_featured,
     category: brand.category,
+    colors,
     primary_color:
       brand.primary_color
-      ?? brand.colors.find((c) => c.is_primary)?.hex
-      ?? brand.colors[0]?.hex
+      ?? colors.find((c) => c.is_primary)?.hex
+      ?? colors[0]?.hex
       ?? null,
     primary_logo_url:
       brand.primary_logo_url

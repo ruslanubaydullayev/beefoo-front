@@ -2019,19 +2019,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 350,
-          "name": "Block Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/block.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/block.svg"
+      "primary_logo_url": null
     },
     {
       "id": 36,
@@ -2509,19 +2499,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 450,
-          "name": "Canon Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/canon.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#BC0022",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/canon.svg"
+      "primary_logo_url": null
     },
     {
       "id": 46,
@@ -2613,19 +2593,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 470,
-          "name": "GoPro Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gopro.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00ADEF",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gopro.svg"
+      "primary_logo_url": null
     },
     {
       "id": 48,
@@ -3344,19 +3314,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 600,
-          "name": "H&M Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hm.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E50010",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hm.svg"
+      "primary_logo_url": null
     },
     {
       "id": 61,
@@ -3438,19 +3398,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 620,
-          "name": "Gap Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gap.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00205B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/gap.svg"
+      "primary_logo_url": null
     },
     {
       "id": 63,
@@ -3485,19 +3435,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 630,
-          "name": "Levi's Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/levis.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C41230",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/levis.svg"
+      "primary_logo_url": null
     },
     {
       "id": 64,
@@ -3532,19 +3472,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 640,
-          "name": "Ralph Lauren Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ralphlauren.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00205B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ralphlauren.svg"
+      "primary_logo_url": null
     },
     {
       "id": 65,
@@ -3579,19 +3509,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 650,
-          "name": "Calvin Klein Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/calvinklein.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/calvinklein.svg"
+      "primary_logo_url": null
     },
     {
       "id": 66,
@@ -3646,19 +3566,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 660,
-          "name": "Tommy Hilfiger Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/tommyhilfiger.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#001F5B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/tommyhilfiger.svg"
+      "primary_logo_url": null
     },
     {
       "id": 67,
@@ -3770,19 +3680,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 680,
-          "name": "Louis Vuitton Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/louisvuitton.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#8B5E3C",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/louisvuitton.svg"
+      "primary_logo_url": null
     },
     {
       "id": 69,
@@ -3874,19 +3774,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 700,
-          "name": "Prada Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/prada.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/prada.svg"
+      "primary_logo_url": null
     },
     {
       "id": 71,
@@ -3931,19 +3821,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 710,
-          "name": "Versace Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/versace.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C4A35A",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/versace.svg"
+      "primary_logo_url": null
     },
     {
       "id": 72,
@@ -3978,19 +3858,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 720,
-          "name": "Armani Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/armanigroup.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/armanigroup.svg"
+      "primary_logo_url": null
     },
     {
       "id": 73,
@@ -4035,19 +3905,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 730,
-          "name": "Burberry Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/burberry.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C6A664",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/burberry.svg"
+      "primary_logo_url": null
     },
     {
       "id": 74,
@@ -4082,19 +3942,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 740,
-          "name": "Balenciaga Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/balenciaga.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/balenciaga.svg"
+      "primary_logo_url": null
     },
     {
       "id": 75,
@@ -4176,19 +4026,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 760,
-          "name": "Herm\u00e8s Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hermes.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#F37021",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hermes.svg"
+      "primary_logo_url": null
     },
     {
       "id": 77,
@@ -4233,19 +4073,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 770,
-          "name": "Fendi Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/fendi.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#F7C948",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/fendi.svg"
+      "primary_logo_url": null
     },
     {
       "id": 78,
@@ -4280,19 +4110,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 780,
-          "name": "Dolce & Gabbana Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dolcegabbana.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dolcegabbana.svg"
+      "primary_logo_url": null
     },
     {
       "id": 79,
@@ -4337,19 +4157,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 790,
-          "name": "Michael Kors Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/michaelkors.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/michaelkors.svg"
+      "primary_logo_url": null
     },
     {
       "id": 80,
@@ -4468,19 +4278,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 820,
-          "name": "Converse Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/converse.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/converse.svg"
+      "primary_logo_url": null
     },
     {
       "id": 83,
@@ -4525,19 +4325,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 830,
-          "name": "Vans Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/vans.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C41E3A",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/vans.svg"
+      "primary_logo_url": null
     },
     {
       "id": 84,
@@ -4572,19 +4362,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 840,
-          "name": "Timberland Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/timberland.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#F4A300",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/timberland.svg"
+      "primary_logo_url": null
     },
     {
       "id": 85,
@@ -4676,19 +4456,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 860,
-          "name": "Patagonia Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/patagonia.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0F1C2C",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/patagonia.svg"
+      "primary_logo_url": null
     },
     {
       "id": 87,
@@ -4723,19 +4493,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 870,
-          "name": "Lululemon Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lululemon.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#D31345",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lululemon.svg"
+      "primary_logo_url": null
     },
     {
       "id": 88,
@@ -4901,19 +4661,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 910,
-          "name": "ASOS Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/asos.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/asos.svg"
+      "primary_logo_url": null
     },
     {
       "id": 92,
@@ -5059,19 +4809,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 950,
-          "name": "Crocs Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/crocs.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#6CC24A",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/crocs.svg"
+      "primary_logo_url": null
     },
     {
       "id": 96,
@@ -5183,19 +4923,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 970,
-          "name": "Pepsi Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pepsi.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#004B93",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pepsi.svg"
+      "primary_logo_url": null
     },
     {
       "id": 98,
@@ -5230,19 +4960,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 980,
-          "name": "Nestl\u00e9 Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nestle.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#004990",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nestle.svg"
+      "primary_logo_url": null
     },
     {
       "id": 99,
@@ -5505,19 +5225,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1030,
-          "name": "Subway Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/subway.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#008C15",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/subway.svg"
+      "primary_logo_url": null
     },
     {
       "id": 104,
@@ -5562,19 +5272,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1040,
-          "name": "Domino's Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dominos.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0078AE",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dominos.svg"
+      "primary_logo_url": null
     },
     {
       "id": 105,
@@ -5609,19 +5309,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1050,
-          "name": "Pizza Hut Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pizzahut.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#EE3A23",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pizzahut.svg"
+      "primary_logo_url": null
     },
     {
       "id": 106,
@@ -5656,19 +5346,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1060,
-          "name": "Wendy's Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/wendys.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E2231A",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/wendys.svg"
+      "primary_logo_url": null
     },
     {
       "id": 107,
@@ -5760,19 +5440,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1080,
-          "name": "Dunkin' Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dunkindonuts.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#FF671F",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dunkindonuts.svg"
+      "primary_logo_url": null
     },
     {
       "id": 109,
@@ -5992,19 +5662,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1140,
-          "name": "Cadbury Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/cadbury.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#4A0082",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/cadbury.svg"
+      "primary_logo_url": null
     },
     {
       "id": 115,
@@ -6039,19 +5699,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1150,
-          "name": "Mondelez Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/mondelezinternational.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#4B0082",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/mondelezinternational.svg"
+      "primary_logo_url": null
     },
     {
       "id": 116,
@@ -6086,19 +5736,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1160,
-          "name": "Danone Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/danone.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0055A5",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/danone.svg"
+      "primary_logo_url": null
     },
     {
       "id": 117,
@@ -6180,19 +5820,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1180,
-          "name": "Kellogg's Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/kelloggs.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#D50032",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/kelloggs.svg"
+      "primary_logo_url": null
     },
     {
       "id": 119,
@@ -6425,19 +6055,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1230,
-          "name": "Heineken Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/heineken.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#008200",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/heineken.svg"
+      "primary_logo_url": null
     },
     {
       "id": 124,
@@ -6472,19 +6092,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1240,
-          "name": "Budweiser Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/budweiser.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C8102E",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/budweiser.svg"
+      "primary_logo_url": null
     },
     {
       "id": 125,
@@ -6529,19 +6139,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1250,
-          "name": "Corona Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/corona.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#F7C948",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/corona.svg"
+      "primary_logo_url": null
     },
     {
       "id": 126,
@@ -6586,19 +6186,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1260,
-          "name": "Nespresso Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nespresso.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nespresso.svg"
+      "primary_logo_url": null
     },
     {
       "id": 127,
@@ -7925,19 +7515,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1530,
-          "name": "Dodge Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dodge.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C8102E",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dodge.svg"
+      "primary_logo_url": null
     },
     {
       "id": 154,
@@ -8284,19 +7864,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1600,
-          "name": "Harley-Davidson Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/harleydavidson.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#FF6600",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/harleydavidson.svg"
+      "primary_logo_url": null
     },
     {
       "id": 161,
@@ -8435,19 +8005,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1630,
-          "name": "Costco Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/costco.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E31837",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/costco.svg"
+      "primary_logo_url": null
     },
     {
       "id": 164,
@@ -8539,19 +8099,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1650,
-          "name": "Home Depot Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/homedepot.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#F96302",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/homedepot.svg"
+      "primary_logo_url": null
     },
     {
       "id": 166,
@@ -8586,19 +8136,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1660,
-          "name": "Lowe's Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lowes.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#004990",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lowes.svg"
+      "primary_logo_url": null
     },
     {
       "id": 167,
@@ -8643,19 +8183,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1670,
-          "name": "Best Buy Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bestbuy.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0046BE",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bestbuy.svg"
+      "primary_logo_url": null
     },
     {
       "id": 168,
@@ -8700,19 +8230,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1680,
-          "name": "Aldi Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/aldi.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00A0E2",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/aldi.svg"
+      "primary_logo_url": null
     },
     {
       "id": 169,
@@ -8918,19 +8438,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1720,
-          "name": "Whole Foods Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/wholefoodsmarket.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00674F",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/wholefoodsmarket.svg"
+      "primary_logo_url": null
     },
     {
       "id": 173,
@@ -9012,19 +8522,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1740,
-          "name": "7-Eleven Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/7eleven.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#008060",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/7eleven.svg"
+      "primary_logo_url": null
     },
     {
       "id": 175,
@@ -9069,19 +8569,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1750,
-          "name": "Sephora Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/sephora.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/sephora.svg"
+      "primary_logo_url": null
     },
     {
       "id": 176,
@@ -9509,19 +8999,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1850,
-          "name": "JPMorgan Chase Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jpmorganchase.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#117ACA",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jpmorganchase.svg"
+      "primary_logo_url": null
     },
     {
       "id": 186,
@@ -9727,19 +9207,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1890,
-          "name": "Citigroup Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/citigroup.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#003B70",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/citigroup.svg"
+      "primary_logo_url": null
     },
     {
       "id": 190,
@@ -9868,19 +9338,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1920,
-          "name": "Morgan Stanley Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/morganstanley.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#002B5C",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/morganstanley.svg"
+      "primary_logo_url": null
     },
     {
       "id": 193,
@@ -9915,19 +9375,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1930,
-          "name": "BlackRock Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/blackrock.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/blackrock.svg"
+      "primary_logo_url": null
     },
     {
       "id": 194,
@@ -9962,19 +9412,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1940,
-          "name": "UBS Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ubs.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E60000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ubs.svg"
+      "primary_logo_url": null
     },
     {
       "id": 195,
@@ -10056,19 +9496,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1960,
-          "name": "Santander Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/santander.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#EC0000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/santander.svg"
+      "primary_logo_url": null
     },
     {
       "id": 197,
@@ -10103,19 +9533,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 1970,
-          "name": "Allianz Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/allianz.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#003781",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/allianz.svg"
+      "primary_logo_url": null
     },
     {
       "id": 198,
@@ -10888,19 +10308,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2120,
-          "name": "Booking.com Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bookingdotcom.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#003580",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bookingdotcom.svg"
+      "primary_logo_url": null
     },
     {
       "id": 213,
@@ -11143,19 +10553,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2170,
-          "name": "Hyatt Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hyatt.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#6B6B6B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hyatt.svg"
+      "primary_logo_url": null
     },
     {
       "id": 218,
@@ -11415,19 +10815,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2230,
-          "name": "Universal Pictures Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/universal.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0077C8",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/universal.svg"
+      "primary_logo_url": null
     },
     {
       "id": 224,
@@ -11462,19 +10852,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2240,
-          "name": "Paramount Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/paramount.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0064FF",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/paramount.svg"
+      "primary_logo_url": null
     },
     {
       "id": 225,
@@ -11650,19 +11030,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2280,
-          "name": "ESPN Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/espn.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#FF0033",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/espn.svg"
+      "primary_logo_url": null
     },
     {
       "id": 229,
@@ -11744,19 +11114,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2300,
-          "name": "BBC Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bbc.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bbc.svg"
+      "primary_logo_url": null
     },
     {
       "id": 231,
@@ -12214,19 +11574,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2400,
-          "name": "Pixar Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pixar.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00B4E4",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pixar.svg"
+      "primary_logo_url": null
     },
     {
       "id": 241,
@@ -12261,19 +11611,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2410,
-          "name": "Marvel Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/marvel.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#ED1D24",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/marvel.svg"
+      "primary_logo_url": null
     },
     {
       "id": 242,
@@ -12318,19 +11658,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2420,
-          "name": "Lego Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lego.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#FFD500",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/lego.svg"
+      "primary_logo_url": null
     },
     {
       "id": 243,
@@ -12365,19 +11695,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2430,
-          "name": "Hasbro Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hasbro.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#003DA5",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hasbro.svg"
+      "primary_logo_url": null
     },
     {
       "id": 244,
@@ -12449,19 +11769,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2450,
-          "name": "Procter & Gamble Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/proctergamble.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#003DA5",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/proctergamble.svg"
+      "primary_logo_url": null
     },
     {
       "id": 246,
@@ -12496,19 +11806,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2460,
-          "name": "Colgate-Palmolive Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/colgate.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E31837",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/colgate.svg"
+      "primary_logo_url": null
     },
     {
       "id": 247,
@@ -12543,19 +11843,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2470,
-          "name": "Johnson & Johnson Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jnj.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#D51900",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jnj.svg"
+      "primary_logo_url": null
     },
     {
       "id": 248,
@@ -12590,19 +11880,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2480,
-          "name": "L'Or\u00e9al Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/loreal.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/loreal.svg"
+      "primary_logo_url": null
     },
     {
       "id": 249,
@@ -12758,19 +12038,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2520,
-          "name": "Duracell Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/duracell.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#C8102E",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/duracell.svg"
+      "primary_logo_url": null
     },
     {
       "id": 253,
@@ -12805,19 +12075,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2530,
-          "name": "Philips Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/philips.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0B5ED7",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/philips.svg"
+      "primary_logo_url": null
     },
     {
       "id": 254,
@@ -12899,19 +12159,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2550,
-          "name": "Whirlpool Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/whirlpool.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#000000",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/whirlpool.svg"
+      "primary_logo_url": null
     },
     {
       "id": 256,
@@ -12946,19 +12196,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2560,
-          "name": "Dyson Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dyson.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#5E2B7E",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/dyson.svg"
+      "primary_logo_url": null
     },
     {
       "id": 257,
@@ -13040,19 +12280,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2580,
-          "name": "Xerox Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/xerox.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#D32011",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/xerox.svg"
+      "primary_logo_url": null
     },
     {
       "id": 259,
@@ -13322,19 +12552,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2640,
-          "name": "Deutsche Telekom Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/deutschetelekom.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E20074",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/deutschetelekom.svg"
+      "primary_logo_url": null
     },
     {
       "id": 265,
@@ -13369,19 +12589,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2650,
-          "name": "China Mobile Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/chinamobile.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#004B87",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/chinamobile.svg"
+      "primary_logo_url": null
     },
     {
       "id": 266,
@@ -13671,19 +12881,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2710,
-          "name": "NFL Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nfl.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#013369",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nfl.svg"
+      "primary_logo_url": null
     },
     {
       "id": 272,
@@ -13718,19 +12918,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2720,
-          "name": "UEFA Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/uefa.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00205B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/uefa.svg"
+      "primary_logo_url": null
     },
     {
       "id": 273,
@@ -13822,19 +13012,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2740,
-          "name": "Formula 1 Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/formula1.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E10600",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/formula1.svg"
+      "primary_logo_url": null
     },
     {
       "id": 275,
@@ -14017,19 +13197,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2790,
-          "name": "Pfizer Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pfizer.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0093D0",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/pfizer.svg"
+      "primary_logo_url": null
     },
     {
       "id": 280,
@@ -14064,19 +13234,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2800,
-          "name": "Moderna Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/moderna.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#DE1B33",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/moderna.svg"
+      "primary_logo_url": null
     },
     {
       "id": 281,
@@ -14111,19 +13271,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2810,
-          "name": "AstraZeneca Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/astrazeneca.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#6C1D5F",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/astrazeneca.svg"
+      "primary_logo_url": null
     },
     {
       "id": 282,
@@ -14158,19 +13308,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2820,
-          "name": "Roche Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/roche.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0072CE",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/roche.svg"
+      "primary_logo_url": null
     },
     {
       "id": 283,
@@ -14205,19 +13345,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2830,
-          "name": "Novartis Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/novartis.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0460A9",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/novartis.svg"
+      "primary_logo_url": null
     },
     {
       "id": 284,
@@ -14346,19 +13476,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2860,
-          "name": "Sanofi Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/sanofi.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#7A1FA2",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/sanofi.svg"
+      "primary_logo_url": null
     },
     {
       "id": 287,
@@ -14393,19 +13513,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2870,
-          "name": "Bayer Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bayer.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00A7E1",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bayer.svg"
+      "primary_logo_url": null
     },
     {
       "id": 288,
@@ -14487,19 +13597,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2890,
-          "name": "ExxonMobil Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/exxonmobil.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#ED1C24",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/exxonmobil.svg"
+      "primary_logo_url": null
     },
     {
       "id": 290,
@@ -14591,19 +13691,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2910,
-          "name": "Chevron Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/chevron.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#0066B2",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/chevron.svg"
+      "primary_logo_url": null
     },
     {
       "id": 292,
@@ -14648,19 +13738,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2920,
-          "name": "BP Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bp.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#00A650",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bp.svg"
+      "primary_logo_url": null
     },
     {
       "id": 293,
@@ -14695,19 +13775,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2930,
-          "name": "TotalEnergies Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/total.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#ED1C24",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/total.svg"
+      "primary_logo_url": null
     },
     {
       "id": 294,
@@ -14863,19 +13933,9 @@
         }
       ],
       "fonts": [],
-      "logos": [
-        {
-          "id": 2970,
-          "name": "JD.com Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jdpcom.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
+      "logos": [],
       "primary_color": "#E1251B",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/jdpcom.svg"
+      "primary_logo_url": null
     },
     {
       "id": 298,

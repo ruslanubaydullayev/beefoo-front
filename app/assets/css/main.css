@@ -440,7 +440,6 @@ input {
 
 .palette-strip {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
   gap: 0.35rem;
   min-height: 2.4rem;
 }

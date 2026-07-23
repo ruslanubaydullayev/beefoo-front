@@ -14,6 +14,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/sitemap": "^8.3.0",
     "nuxt": "^4.4.8",
     "oxc-parser": "0.133.0",
     "vue": "^3.5.39",

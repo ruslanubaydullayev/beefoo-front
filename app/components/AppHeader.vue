@@ -8,6 +8,8 @@
 
       <nav class="nav-links" aria-label="Primary">
         <NuxtLink to="/brands">Brands</NuxtLink>
+        <NuxtLink to="/tools">Tools</NuxtLink>
+        <NuxtLink to="/about">About</NuxtLink>
         <NuxtLink to="/search">Search</NuxtLink>
       </nav>
     </div>

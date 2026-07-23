@@ -105,6 +105,34 @@ async function copyText(value: string) {
     toast.error('Could not copy to clipboard')
   }
 }
+
+const downloading = ref<number | null>(null)
+
+// Fetch as blob so downloads also work for cross-origin CDN logos,
+// where the plain <a download> attribute is ignored by browsers.
+async function downloadLogo(logo: { id: number, image_url: string, variant?: string | null, format?: string | null }) {
+  if (!brand.value || downloading.value === logo.id) return
+  downloading.value = logo.id
+  try {
+    const response = await fetch(logo.image_url)
+    if (!response.ok) throw new Error(`HTTP ${response.status}`)
+    const blob = await response.blob()
+    const url = URL.createObjectURL(blob)
+    const link = document.createElement('a')
+    const parts = [brand.value.slug, logo.variant].filter(Boolean)
+    link.href = url
+    link.download = `${parts.join('-')}.${logo.format || 'svg'}`
+    link.click()
+    URL.revokeObjectURL(url)
+    toast.success(`Downloaded ${link.download}`)
+  }
+  catch {
+    toast.error('Could not download this logo')
+  }
+  finally {
+    downloading.value = null
+  }
+}
 </script>
 
 <template>
@@ -252,6 +280,14 @@ async function copyText(value: string) {
               <span v-if="logo.format"> · {{ logo.format.toUpperCase() }}</span>
               <span v-if="primaryColor"> · {{ primaryColor }}</span>
             </p>
+            <button
+              type="button"
+              class="btn btn--ghost logo-item__download"
+              :disabled="downloading === logo.id"
+              @click="downloadLogo(logo)"
+            >
+              {{ downloading === logo.id ? 'Downloading…' : `Download ${(logo.format || 'svg').toUpperCase()}` }}
+            </button>
           </article>
         </div>
         <div v-else class="empty-state">

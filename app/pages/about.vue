@@ -38,9 +38,9 @@ usePageSeo({
           </p>
           <p>
             Alongside the database we build small, free
-            <NuxtLink to="/tools">tools</NuxtLink> for everyday design work,
-            like a color format converter and a WCAG contrast checker. More are
-            on the way.
+            <NuxtLink to="/tools">tools</NuxtLink> for everyday design work —
+            color converter, contrast checker, website color scanner, and
+            palette extraction from images.
           </p>
           <p>
             Spotted a wrong color or a missing brand? The database grows and

@@ -2,22 +2,34 @@
 const tools = [
   {
     to: '/tools/color-converter',
+    icon: 'converter' as const,
     title: 'Color converter',
     text: 'Convert between HEX, RGB, HSL, and CMYK instantly — and see which brands use similar colors.',
-    swatches: ['#D89A12', '#0F6E6A', '#E4002B', '#4285F4'],
   },
   {
     to: '/tools/contrast-checker',
+    icon: 'contrast' as const,
     title: 'Contrast checker',
     text: 'Test text and background pairs against WCAG AA and AAA accessibility standards.',
-    swatches: ['#12202A', '#F3F6F8', '#000000', '#FFC72C'],
+  },
+  {
+    to: '/tools/website-scanner',
+    icon: 'scanner' as const,
+    title: 'Website color scanner',
+    text: 'Paste any URL and extract its primary color, accent palette, fonts, and logo.',
+  },
+  {
+    to: '/tools/palette-from-image',
+    icon: 'palette' as const,
+    title: 'Palette from image',
+    text: 'Upload a picture and pull out its dominant colors — processed entirely in your browser.',
   },
 ]
 
 usePageSeo({
   title: 'Free Design Tools',
   description:
-    'Free tools for designers from BeeFoo: color format converter, WCAG contrast checker, and more on the way.',
+    'Free tools for designers from BeeFoo: color converter, contrast checker, website color scanner, and palette extractor from images.',
   path: '/tools',
 })
 </script>
@@ -34,21 +46,10 @@ usePageSeo({
 
       <div class="tool-grid">
         <NuxtLink v-for="tool in tools" :key="tool.to" class="tool-card" :to="tool.to">
-          <span class="tool-card__swatches" aria-hidden="true">
-            <span
-              v-for="(swatch, i) in tool.swatches"
-              :key="i"
-              :style="{ background: swatch }"
-            />
-          </span>
+          <ToolIcon :name="tool.icon" />
           <h3>{{ tool.title }}</h3>
           <p>{{ tool.text }}</p>
         </NuxtLink>
-
-        <div class="tool-card tool-card--soon" aria-disabled="true">
-          <h3>Palette from image</h3>
-          <p>Extract a brand-ready palette from any picture. Coming soon.</p>
-        </div>
       </div>
     </div>
   </section>

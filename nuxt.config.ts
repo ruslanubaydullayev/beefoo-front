@@ -48,6 +48,7 @@ export default defineNuxtConfig({
     '/about': { prerender: true },
     '/tools': { prerender: true },
     '/tools/**': { prerender: true },
+    '/api/tools/scan-site': { prerender: false },
     // SWR only in production — avoids stale brand pages during local development.
     ...(process.env.NODE_ENV === 'production'
       ? {

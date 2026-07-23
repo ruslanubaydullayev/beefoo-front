@@ -6,8 +6,8 @@
       </p>
       <nav class="site-footer__nav" aria-label="Footer">
         <NuxtLink to="/brands">Brands</NuxtLink>
-        <NuxtLink to="/tools/color-converter">Color converter</NuxtLink>
-        <NuxtLink to="/tools/contrast-checker">Contrast checker</NuxtLink>
+        <NuxtLink to="/tools">Tools</NuxtLink>
+        <NuxtLink to="/tools/website-scanner">Website scanner</NuxtLink>
         <NuxtLink to="/about">About</NuxtLink>
       </nav>
     </div>

@@ -55,6 +55,7 @@ export default defineNuxtConfig({
           '/brands': { swr: 60 },
           '/brand/**': { swr: 60 },
           '/category/**': { swr: 60 },
+          '/compare/**': { swr: 60 },
         }
       : {}),
   },

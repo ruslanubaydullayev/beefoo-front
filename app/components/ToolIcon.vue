@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps<{
-  name: 'converter' | 'contrast' | 'scanner' | 'palette'
+  name: 'converter' | 'contrast' | 'scanner' | 'palette' | 'compare'
 }>()
 </script>
 
@@ -38,6 +38,17 @@ defineProps<{
       />
       <path d="M29 31.5 26.2 38.5l7-2.8L29 31.5Z" fill="var(--teal)" />
       <path d="M36.2 24.2 39.5 27.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity="0.4" />
+    </svg>
+
+    <!-- Two brands facing off -->
+    <svg v-else-if="name === 'compare'" viewBox="0 0 48 48" fill="none">
+      <rect x="4" y="10" width="16" height="28" rx="4" fill="var(--teal)" opacity="0.9" />
+      <rect x="28" y="10" width="16" height="28" rx="4" fill="var(--honey)" opacity="0.95" />
+      <path d="M22 24h4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+      <circle cx="12" cy="20" r="3.2" fill="#fff" opacity="0.95" />
+      <circle cx="36" cy="20" r="3.2" fill="#fff" opacity="0.95" />
+      <path d="M8.5 29h7M8.5 33.5h5" stroke="#fff" stroke-width="1.8" stroke-linecap="round" opacity="0.85" />
+      <path d="M32.5 29h7M32.5 33.5h5" stroke="#fff" stroke-width="1.8" stroke-linecap="round" opacity="0.85" />
     </svg>
 
     <!-- Photo + palette chips -->
@@ -84,6 +95,10 @@ defineProps<{
 
 .tool-icon--palette {
   background: rgba(216, 154, 18, 0.1);
+}
+
+.tool-icon--compare {
+  background: rgba(15, 110, 106, 0.1);
 }
 
 :global(.tool-card:hover) .tool-icon {

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { queryBrand, queryBrands } from '~/utils/catalog'
+import { canonicalComparePath, queryRelatedComparePairs } from '~/utils/compare'
 
 const route = useRoute()
 const slug = computed(() => String(route.params.slug || ''))
@@ -36,6 +37,27 @@ const relatedBrands = computed(() =>
     .filter((item) => item.slug !== slug.value)
     .slice(0, 4),
 )
+
+const compareWith = computed(() => {
+  const curated = queryRelatedComparePairs(slug.value, 4)
+  if (curated.length >= 4) return curated.slice(0, 4)
+
+  const seen = new Set(curated.map((item) => item.other.slug))
+  const fromCategory = relatedBrands.value
+    .filter((item) => !seen.has(item.slug))
+    .slice(0, 4 - curated.length)
+    .map((item) => {
+      const other = queryBrand(item.slug)
+      if (!other) return null
+      return {
+        path: canonicalComparePath(slug.value, item.slug),
+        other,
+      }
+    })
+    .filter((item): item is NonNullable<typeof item> => Boolean(item))
+
+  return [...curated, ...fromCategory].slice(0, 4)
+})
 
 const primaryLogo = computed(
   () => brand.value?.logos.find((logo) => logo.is_primary) || brand.value?.logos[0],
@@ -292,6 +314,33 @@ async function downloadLogo(logo: { id: number, image_url: string, variant?: str
         </div>
         <div v-else class="empty-state">
           No logos recorded yet.
+        </div>
+      </div>
+    </section>
+
+    <section v-if="compareWith.length" class="section">
+      <div class="page-shell">
+        <div class="section__head">
+          <div>
+            <h2>Compare with</h2>
+            <p>Side-by-side colors, fonts, logos, and brand facts.</p>
+          </div>
+        </div>
+        <div class="compare-more">
+          <NuxtLink
+            v-for="item in compareWith"
+            :key="item.path"
+            :to="item.path"
+            class="compare-more__link"
+          >
+            <BrandLogoMark
+              :src="item.other.primary_logo_url || `/logos/${item.other.slug}.svg`"
+              :alt="`${item.other.name} logo`"
+              :color="item.other.primary_color"
+              :size="28"
+            />
+            <span>{{ brand.name }} vs {{ item.other.name }}</span>
+          </NuxtLink>
         </div>
       </div>
     </section>

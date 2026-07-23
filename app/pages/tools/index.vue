@@ -24,12 +24,18 @@ const tools = [
     title: 'Palette from image',
     text: 'Upload a picture and pull out its dominant colors — processed entirely in your browser.',
   },
+  {
+    to: '/tools/compare-brands',
+    icon: 'compare' as const,
+    title: 'Compare brands',
+    text: 'Pick two brands and compare colors, fonts, logos, industry, and country side by side.',
+  },
 ]
 
 usePageSeo({
   title: 'Free Design Tools',
   description:
-    'Free tools for designers from BeeFoo: color converter, contrast checker, website color scanner, and palette extractor from images.',
+    'Free tools for designers from BeeFoo: color converter, contrast checker, website color scanner, palette extractor, and brand comparison.',
   path: '/tools',
 })
 </script>

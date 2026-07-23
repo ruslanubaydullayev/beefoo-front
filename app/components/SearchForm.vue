@@ -130,6 +130,7 @@ onBeforeUnmount(() => {
         type="search"
         name="q"
         :placeholder="placeholder"
+        role="combobox"
         aria-label="Search brands"
         aria-autocomplete="list"
         aria-controls="search-suggestion-list"

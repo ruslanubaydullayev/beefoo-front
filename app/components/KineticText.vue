@@ -86,7 +86,9 @@ onBeforeUnmount(() => {
   place-items: center;
   width: 100%;
   height: 100%;
+  min-height: 280px;
   padding: clamp(1.5rem, 4vw, 2.5rem);
+  border-radius: 28px;
   user-select: none;
   -webkit-user-select: none;
   cursor: default;
@@ -115,6 +117,7 @@ onBeforeUnmount(() => {
 .kinetic__letter {
   position: relative;
   display: inline-block;
+  overflow: visible;
 }
 
 .kinetic__char {
@@ -142,20 +145,21 @@ onBeforeUnmount(() => {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 1.7em;
-  height: 1.45em;
-  margin: -0.725em 0 0 -0.85em;
+  width: 2.4em;
+  height: 2.4em;
+  margin: -1.2em 0 0 -1.2em;
   border-radius: 50%;
   background: radial-gradient(
     circle at 38% 36%,
     var(--blob-a, #f9c46b) 0%,
-    var(--blob-b, #ef8f3a) 55%,
-    transparent 78%
+    var(--blob-b, #ef8f3a) 48%,
+    transparent 72%
   );
-  filter: blur(9px);
+  filter: blur(12px);
   opacity: 0;
   transform: scale(0.2);
   pointer-events: none;
+  will-change: transform, opacity;
   transition:
     transform 1.1s ease,
     opacity 1.1s ease;

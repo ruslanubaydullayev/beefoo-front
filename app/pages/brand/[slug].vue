@@ -223,6 +223,8 @@ async function downloadLogo(logo: { id: number, image_url: string, variant?: str
       </div>
     </section>
 
+    <BrandVisualDna :brand="brand" />
+
     <section class="section">
       <div class="page-shell">
         <div class="section__head">

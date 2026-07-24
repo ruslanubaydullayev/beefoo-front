@@ -6,6 +6,7 @@ const { data: latest } = await listBrands({ page_size: 12 })
 const { data: categories } = await listCategories()
 
 const searchQuery = ref('')
+const showKinetic = ref(false)
 
 function goSearch(value: string) {
   if (!value) {
@@ -14,6 +15,21 @@ function goSearch(value: string) {
   }
   navigateTo({ path: '/search', query: { q: value } })
 }
+
+let kineticMedia: MediaQueryList | null = null
+function syncKinetic() {
+  showKinetic.value = Boolean(kineticMedia?.matches)
+}
+
+onMounted(() => {
+  kineticMedia = window.matchMedia('(min-width: 860px)')
+  syncKinetic()
+  kineticMedia.addEventListener('change', syncKinetic)
+})
+
+onBeforeUnmount(() => {
+  kineticMedia?.removeEventListener('change', syncKinetic)
+})
 
 const siteUrl = useRuntimeConfig().public.siteUrl as string
 
@@ -55,8 +71,10 @@ usePageSeo({
           </div>
         </div>
 
-        <div class="hero__visual" aria-hidden="true">
-          <KineticText />
+        <div v-if="showKinetic" class="hero__visual" aria-hidden="true">
+          <ClientOnly>
+            <KineticText />
+          </ClientOnly>
         </div>
       </div>
     </section>

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { FANCY_STYLES, transformAll } from '~/utils/fancyText'
 
-const DEFAULT = 'make your keyboard blush with pride'
+const DEFAULT = ''
 const text = ref(DEFAULT)
 const toast = useToast()
 

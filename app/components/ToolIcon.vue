@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps<{
-  name: 'converter' | 'contrast' | 'scanner' | 'palette' | 'compare'
+  name: 'converter' | 'contrast' | 'scanner' | 'palette' | 'compare' | 'fonts'
 }>()
 </script>
 
@@ -51,6 +51,13 @@ defineProps<{
       <path d="M32.5 29h7M32.5 33.5h5" stroke="#fff" stroke-width="1.8" stroke-linecap="round" opacity="0.85" />
     </svg>
 
+    <!-- Unusual / fancy text fonts -->
+    <svg v-else-if="name === 'fonts'" viewBox="0 0 48 48" fill="none">
+      <text x="8" y="30" fill="var(--teal)" font-size="22" font-weight="700" font-family="Georgia, serif" font-style="italic">Aa</text>
+      <text x="26" y="34" fill="var(--honey-deep)" font-size="16" font-weight="700" font-family="Syne, Avenir Next, sans-serif">Bb</text>
+      <path d="M6 40h36" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.25" />
+    </svg>
+
     <!-- Photo + palette chips -->
     <svg v-else viewBox="0 0 48 48" fill="none">
       <rect x="7" y="5" width="34" height="27" rx="3.5" stroke="currentColor" stroke-width="2" opacity="0.7" />
@@ -99,6 +106,10 @@ defineProps<{
 
 .tool-icon--compare {
   background: rgba(15, 110, 106, 0.1);
+}
+
+.tool-icon--fonts {
+  background: rgba(216, 154, 18, 0.12);
 }
 
 :global(.tool-card:hover) .tool-icon {

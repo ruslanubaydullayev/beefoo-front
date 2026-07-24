@@ -40,7 +40,7 @@ usePageSeo({
             Alongside the database we build small, free
             <NuxtLink to="/tools">tools</NuxtLink> for everyday design work —
             color converter, contrast checker, website color scanner, palette
-            extraction from images, and brand comparison.
+            extraction from images, brand comparison, and unusual fonts.
           </p>
           <p>
             Spotted a wrong color or a missing brand? The database grows and

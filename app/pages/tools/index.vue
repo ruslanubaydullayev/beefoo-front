@@ -30,12 +30,18 @@ const tools = [
     title: 'Compare brands',
     text: 'Pick two brands and compare colors, fonts, logos, industry, and country side by side.',
   },
+  {
+    to: '/tools/unusual-fonts',
+    icon: 'fonts' as const,
+    title: 'Unusual fonts',
+    text: 'How to make unusual text & beautiful usernames — Gothic, cursive, bold, and more Unicode fonts to copy.',
+  },
 ]
 
 usePageSeo({
   title: 'Free Design Tools',
   description:
-    'Free tools for designers from BeeFoo: color converter, contrast checker, website color scanner, palette extractor, and brand comparison.',
+    'Free tools for designers from BeeFoo: color converter, contrast checker, website scanner, palette extractor, brand comparison, and unusual fonts.',
   path: '/tools',
 })
 </script>

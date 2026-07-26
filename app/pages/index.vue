@@ -46,11 +46,38 @@ const jsonLd = {
 }
 
 usePageSeo({
-  title: 'BeeFoo — Visual Identity Database',
+  title: 'BeeFoo — Brand Identities & Free Design Tools',
   description:
-    'Find brand colors, fonts, and logos in one searchable visual identity database built for designers and developers.',
+    'Browse brand colors, fonts, and logos — plus free design tools: color converter, contrast checker, website scanner, brand comparison, and unusual fonts.',
   path: '/',
 })
+
+const homeTools = [
+  {
+    to: '/tools/color-converter',
+    icon: 'converter' as const,
+    title: 'Color converter',
+    text: 'HEX, RGB, HSL, and CMYK in one place.',
+  },
+  {
+    to: '/tools/compare-brands',
+    icon: 'compare' as const,
+    title: 'Compare brands',
+    text: 'Side-by-side colors, logos, and brand facts.',
+  },
+  {
+    to: '/tools/unusual-fonts',
+    icon: 'fonts' as const,
+    title: 'Unusual fonts',
+    text: 'Turn any username into stylish Unicode text.',
+  },
+  {
+    to: '/tools/website-scanner',
+    icon: 'scanner' as const,
+    title: 'Website scanner',
+    text: 'Pull colors and fonts from any URL.',
+  },
+]
 </script>
 
 <template>
@@ -61,13 +88,17 @@ usePageSeo({
         <div>
           <p class="hero__brand">BeeFoo</p>
           <h1 class="hero__title">
-            The visual identity database for brands that designers actually use.
+            Brand identities and free tools designers actually use.
           </h1>
           <p class="hero__text">
-            Instantly find brand colors, color codes, fonts, and logos — built for search traffic and everyday design work.
+            Search brand colors, fonts, and logos — then open free tools for converters,
+            contrast checks, unusual fonts, comparisons, and more.
           </p>
           <div class="hero__actions">
             <SearchForm v-model="searchQuery" @submit="goSearch" />
+            <NuxtLink class="btn btn--ghost" to="/tools">
+              Explore tools
+            </NuxtLink>
           </div>
         </div>
 
@@ -75,6 +106,33 @@ usePageSeo({
           <ClientOnly>
             <KineticText />
           </ClientOnly>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="page-shell">
+        <div class="section__head">
+          <div>
+            <h2>Free design tools</h2>
+            <p>Not only a brand database — everyday utilities for color, type, and identity work.</p>
+          </div>
+          <NuxtLink class="btn btn--ghost" to="/tools">
+            All tools
+          </NuxtLink>
+        </div>
+
+        <div class="tool-grid">
+          <NuxtLink
+            v-for="tool in homeTools"
+            :key="tool.to"
+            class="tool-card"
+            :to="tool.to"
+          >
+            <ToolIcon :name="tool.icon" />
+            <h3>{{ tool.title }}</h3>
+            <p>{{ tool.text }}</p>
+          </NuxtLink>
         </div>
       </div>
     </section>

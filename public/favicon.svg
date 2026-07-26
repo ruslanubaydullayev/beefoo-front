@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="BeeFoo">
+  <defs>
+    <linearGradient id="beefoo-mark" x1="8" y1="6" x2="40" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d89a12"/>
+      <stop offset="38%" stop-color="#f0c85a"/>
+      <stop offset="72%" stop-color="#0f6e6a"/>
+      <stop offset="100%" stop-color="#d89a12"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="22" fill="url(#beefoo-mark)"/>
+  <circle cx="24" cy="24" r="18.5" fill="none" stroke="#ffffff" stroke-width="2.8" opacity="0.58"/>
+</svg>

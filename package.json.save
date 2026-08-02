@@ -1,0 +1,29 @@
+{
+  "name": "beefoo-front",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "predev": "node -e \"const m=+process.versions.node.split('.')[0]; if(m<22){console.error('BeeFoo front needs Node 22+ (oxc-parser). Current: '+process.version+'\\nRun: nvm use'); process.exit(1)}\"",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/fonts": "^0.14.0",
+    "@nuxtjs/sitemap": "^8.3.0",
+    "nuxt": "^4.4.8",
+    "oxc-parser": "0.133.0",
+    "vue": "^3.5.39",
+    "vue-router": "^5.1.0"
+  },
+  "devDependencies": {
+    "@oxc-minify/binding-darwin-arm64": "0.133.0",
+    "@oxc-parser/binding-darwin-arm64": "0.133.0",
+    "@oxc-transform/binding-darwin-arm64": "0.133.0"
+  }
+}

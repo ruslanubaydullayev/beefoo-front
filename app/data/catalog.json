@@ -28624,53 +28624,6 @@
       "primary_logo_url": "/logos/gen-g.svg"
     },
     {
-      "id": 702,
-      "name": "DRX",
-      "slug": "drx",
-      "description": "DRX visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "South Korea",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "DRX Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore DRX visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 70200,
-          "name": "DRX Primary",
-          "hex": "#004098",
-          "rgb": "rgb(0, 64, 152)",
-          "hsl": "hsl(215, 100%, 30%)",
-          "cmyk": "cmyk(100%, 58%, 0%, 40%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7020,
-          "name": "DRX Logo",
-          "image_url": "/logos/drx.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#004098",
-      "primary_logo_url": "/logos/drx.svg"
-    },
-    {
       "id": 703,
       "name": "LOUD",
       "slug": "loud",
@@ -29141,53 +29094,6 @@
       "primary_logo_url": "/logos/nrg-esports.svg"
     },
     {
-      "id": 713,
-      "name": "Guild Esports",
-      "slug": "guild-esports",
-      "description": "Guild Esports visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United Kingdom",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Guild Esports Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Guild Esports visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 71300,
-          "name": "Guild Esports Primary",
-          "hex": "#00D4AA",
-          "rgb": "rgb(0, 212, 170)",
-          "hsl": "hsl(168, 100%, 42%)",
-          "cmyk": "cmyk(100%, 0%, 20%, 17%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7130,
-          "name": "Guild Esports Logo",
-          "image_url": "/logos/guild-esports.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#00D4AA",
-      "primary_logo_url": "/logos/guild-esports.svg"
-    },
-    {
       "id": 714,
       "name": "Karmine Corp",
       "slug": "karmine-corp",
@@ -29280,100 +29186,6 @@
       ],
       "primary_color": "#00A1D6",
       "primary_logo_url": "/logos/bilibili-gaming.svg"
-    },
-    {
-      "id": 716,
-      "name": "EDward Gaming",
-      "slug": "edward-gaming",
-      "description": "EDward Gaming visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "EDward Gaming Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore EDward Gaming visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 71600,
-          "name": "EDward Gaming Primary",
-          "hex": "#000000",
-          "rgb": "rgb(0, 0, 0)",
-          "hsl": "hsl(0, 0%, 0%)",
-          "cmyk": "cmyk(0%, 0%, 0%, 100%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7160,
-          "name": "EDward Gaming Logo",
-          "image_url": "/logos/edward-gaming.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#000000",
-      "primary_logo_url": "/logos/edward-gaming.svg"
-    },
-    {
-      "id": 717,
-      "name": "JD Gaming",
-      "slug": "jd-gaming",
-      "description": "JD Gaming visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "JD Gaming Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore JD Gaming visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 71700,
-          "name": "JD Gaming Primary",
-          "hex": "#E30613",
-          "rgb": "rgb(227, 6, 19)",
-          "hsl": "hsl(356, 95%, 46%)",
-          "cmyk": "cmyk(0%, 97%, 92%, 11%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7170,
-          "name": "JD Gaming Logo",
-          "image_url": "/logos/jd-gaming.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#E30613",
-      "primary_logo_url": "/logos/jd-gaming.svg"
     },
     {
       "id": 718,
@@ -29470,53 +29282,6 @@
       "primary_logo_url": "/logos/top-esports.svg"
     },
     {
-      "id": 720,
-      "name": "FunPlus Phoenix",
-      "slug": "funplus-phoenix",
-      "description": "FunPlus Phoenix visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "FunPlus Phoenix Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore FunPlus Phoenix visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 72000,
-          "name": "FunPlus Phoenix Primary",
-          "hex": "#E30613",
-          "rgb": "rgb(227, 6, 19)",
-          "hsl": "hsl(356, 95%, 46%)",
-          "cmyk": "cmyk(0%, 97%, 92%, 11%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7200,
-          "name": "FunPlus Phoenix Logo",
-          "image_url": "/logos/funplus-phoenix.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#E30613",
-      "primary_logo_url": "/logos/funplus-phoenix.svg"
-    },
-    {
       "id": 721,
       "name": "Royal Never Give Up",
       "slug": "royal-never-give-up",
@@ -29562,53 +29327,6 @@
       ],
       "primary_color": "#FFD700",
       "primary_logo_url": "/logos/royal-never-give-up.svg"
-    },
-    {
-      "id": 722,
-      "name": "Invictus Gaming",
-      "slug": "invictus-gaming",
-      "description": "Invictus Gaming visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Invictus Gaming Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Invictus Gaming visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 72200,
-          "name": "Invictus Gaming Primary",
-          "hex": "#000000",
-          "rgb": "rgb(0, 0, 0)",
-          "hsl": "hsl(0, 0%, 0%)",
-          "cmyk": "cmyk(0%, 0%, 0%, 100%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7220,
-          "name": "Invictus Gaming Logo",
-          "image_url": "/logos/invictus-gaming.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#000000",
-      "primary_logo_url": "/logos/invictus-gaming.svg"
     },
     {
       "id": 723,
@@ -33606,100 +33324,6 @@
       "primary_logo_url": "/logos/palace-skateboards.svg"
     },
     {
-      "id": 811,
-      "name": "Comme des Garcons",
-      "slug": "comme-des-garcons",
-      "description": "Comme des Garcons visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Japan",
-      "industry": "Fashion",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Comme des Garcons Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Comme des Garcons visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 2,
-        "name": "Fashion",
-        "slug": "fashion",
-        "description": "Apparel, luxury, and lifestyle brands."
-      },
-      "colors": [
-        {
-          "id": 81100,
-          "name": "Comme des Garcons Primary",
-          "hex": "#000000",
-          "rgb": "rgb(0, 0, 0)",
-          "hsl": "hsl(0, 0%, 0%)",
-          "cmyk": "cmyk(0%, 0%, 0%, 100%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8110,
-          "name": "Comme des Garcons Logo",
-          "image_url": "/logos/comme-des-garcons.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#000000",
-      "primary_logo_url": "/logos/comme-des-garcons.svg"
-    },
-    {
-      "id": 812,
-      "name": "Issey Miyake",
-      "slug": "issey-miyake",
-      "description": "Issey Miyake visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Japan",
-      "industry": "Fashion",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Issey Miyake Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Issey Miyake visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 2,
-        "name": "Fashion",
-        "slug": "fashion",
-        "description": "Apparel, luxury, and lifestyle brands."
-      },
-      "colors": [
-        {
-          "id": 81200,
-          "name": "Issey Miyake Primary",
-          "hex": "#000000",
-          "rgb": "rgb(0, 0, 0)",
-          "hsl": "hsl(0, 0%, 0%)",
-          "cmyk": "cmyk(0%, 0%, 0%, 100%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8120,
-          "name": "Issey Miyake Logo",
-          "image_url": "/logos/issey-miyake.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#000000",
-      "primary_logo_url": "/logos/issey-miyake.svg"
-    },
-    {
       "id": 813,
       "name": "Yohji Yamamoto",
       "slug": "yohji-yamamoto",
@@ -34311,53 +33935,6 @@
       "primary_logo_url": "/logos/brunello-cucinelli.svg"
     },
     {
-      "id": 826,
-      "name": "Chipotle",
-      "slug": "chipotle",
-      "description": "Chipotle visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Food",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Chipotle Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Chipotle visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 3,
-        "name": "Food",
-        "slug": "food",
-        "description": "Food and beverage brands."
-      },
-      "colors": [
-        {
-          "id": 82600,
-          "name": "Chipotle Primary",
-          "hex": "#A81612",
-          "rgb": "rgb(168, 22, 18)",
-          "hsl": "hsl(2, 81%, 36%)",
-          "cmyk": "cmyk(0%, 87%, 89%, 34%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8260,
-          "name": "Chipotle Logo",
-          "image_url": "/logos/chipotle.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#A81612",
-      "primary_logo_url": "/logos/chipotle.svg"
-    },
-    {
       "id": 827,
       "name": "Panera Bread",
       "slug": "panera-bread",
@@ -34497,53 +34074,6 @@
       ],
       "primary_color": "#006341",
       "primary_logo_url": "/logos/shake-shack.svg"
-    },
-    {
-      "id": 830,
-      "name": "In-N-Out Burger",
-      "slug": "in-n-out-burger",
-      "description": "In-N-Out Burger visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Food",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "In-N-Out Burger Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore In-N-Out Burger visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 3,
-        "name": "Food",
-        "slug": "food",
-        "description": "Food and beverage brands."
-      },
-      "colors": [
-        {
-          "id": 83000,
-          "name": "In-N-Out Burger Primary",
-          "hex": "#F7941D",
-          "rgb": "rgb(247, 148, 29)",
-          "hsl": "hsl(33, 93%, 54%)",
-          "cmyk": "cmyk(0%, 40%, 88%, 3%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8300,
-          "name": "In-N-Out Burger Logo",
-          "image_url": "/logos/in-n-out-burger.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#F7941D",
-      "primary_logo_url": "/logos/in-n-out-burger.svg"
     },
     {
       "id": 831,
@@ -35439,53 +34969,6 @@
       "primary_logo_url": "/logos/jollibee.svg"
     },
     {
-      "id": 850,
-      "name": "Lotus Biscoff",
-      "slug": "lotus-biscoff",
-      "description": "Lotus Biscoff visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Belgium",
-      "industry": "Food",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Lotus Biscoff Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Lotus Biscoff visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 3,
-        "name": "Food",
-        "slug": "food",
-        "description": "Food and beverage brands."
-      },
-      "colors": [
-        {
-          "id": 85000,
-          "name": "Lotus Biscoff Primary",
-          "hex": "#D4AF37",
-          "rgb": "rgb(212, 175, 55)",
-          "hsl": "hsl(46, 65%, 52%)",
-          "cmyk": "cmyk(0%, 17%, 74%, 17%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8500,
-          "name": "Lotus Biscoff Logo",
-          "image_url": "/logos/lotus-biscoff.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#D4AF37",
-      "primary_logo_url": "/logos/lotus-biscoff.svg"
-    },
-    {
       "id": 851,
       "name": "Oreo",
       "slug": "oreo",
@@ -35625,53 +35108,6 @@
       ],
       "primary_color": "#FFD700",
       "primary_logo_url": "/logos/lays.svg"
-    },
-    {
-      "id": 854,
-      "name": "Doritos",
-      "slug": "doritos",
-      "description": "Doritos visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Food",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Doritos Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Doritos visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 3,
-        "name": "Food",
-        "slug": "food",
-        "description": "Food and beverage brands."
-      },
-      "colors": [
-        {
-          "id": 85400,
-          "name": "Doritos Primary",
-          "hex": "#ED1C24",
-          "rgb": "rgb(237, 28, 36)",
-          "hsl": "hsl(358, 85%, 52%)",
-          "cmyk": "cmyk(0%, 88%, 85%, 7%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8540,
-          "name": "Doritos Logo",
-          "image_url": "/logos/doritos.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#ED1C24",
-      "primary_logo_url": "/logos/doritos.svg"
     },
     {
       "id": 855,
@@ -36659,53 +36095,6 @@
       ],
       "primary_color": "#CC0000",
       "primary_logo_url": "/logos/pontiac.svg"
-    },
-    {
-      "id": 877,
-      "name": "Hummer",
-      "slug": "hummer",
-      "description": "Hummer visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Automotive",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Hummer Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Hummer visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 4,
-        "name": "Automotive",
-        "slug": "automotive",
-        "description": "Car makers and mobility brands."
-      },
-      "colors": [
-        {
-          "id": 87700,
-          "name": "Hummer Primary",
-          "hex": "#FFD700",
-          "rgb": "rgb(255, 215, 0)",
-          "hsl": "hsl(51, 100%, 50%)",
-          "cmyk": "cmyk(0%, 16%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8770,
-          "name": "Hummer Logo",
-          "image_url": "/logos/hummer.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FFD700",
-      "primary_logo_url": "/logos/hummer.svg"
     },
     {
       "id": 878,
@@ -38282,10 +37671,10 @@
         {
           "id": 91100,
           "name": "Five Below Primary",
-          "hex": "#006633",
-          "rgb": "rgb(0, 102, 51)",
-          "hsl": "hsl(150, 100%, 20%)",
-          "cmyk": "cmyk(100%, 0%, 50%, 60%)",
+          "hex": "#0E6EFF",
+          "rgb": "rgb(14, 110, 255)",
+          "hsl": "hsl(219, 100%, 56%)",
+          "cmyk": "cmyk(0%, 56%, 0%, 0%)",
           "is_primary": true,
           "sort_order": 0
         }
@@ -38870,53 +38259,6 @@
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/nubank.svg"
     },
     {
-      "id": 924,
-      "name": "Inter",
-      "slug": "inter",
-      "description": "Inter visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Brazil",
-      "industry": "Finance",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Inter Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Inter visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 6,
-        "name": "Finance",
-        "slug": "finance",
-        "description": "Banks, fintech, and payment companies."
-      },
-      "colors": [
-        {
-          "id": 92400,
-          "name": "Inter Primary",
-          "hex": "#FF7A00",
-          "rgb": "rgb(255, 122, 0)",
-          "hsl": "hsl(29, 100%, 50%)",
-          "cmyk": "cmyk(0%, 52%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9240,
-          "name": "Inter Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bancointer.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FF7A00",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/bancointer.svg"
-    },
-    {
       "id": 925,
       "name": "Itau",
       "slug": "itau",
@@ -39056,53 +38398,6 @@
       ],
       "primary_color": "#0075BE",
       "primary_logo_url": "/logos/caixabank.svg"
-    },
-    {
-      "id": 929,
-      "name": "ING",
-      "slug": "ing",
-      "description": "ING visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Netherlands",
-      "industry": "Finance",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "ING Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore ING visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 6,
-        "name": "Finance",
-        "slug": "finance",
-        "description": "Banks, fintech, and payment companies."
-      },
-      "colors": [
-        {
-          "id": 92900,
-          "name": "ING Primary",
-          "hex": "#FF6200",
-          "rgb": "rgb(255, 98, 0)",
-          "hsl": "hsl(23, 100%, 50%)",
-          "cmyk": "cmyk(0%, 62%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9290,
-          "name": "ING Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ing.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FF6200",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/ing.svg"
     },
     {
       "id": 930,
@@ -39338,53 +38633,6 @@
       ],
       "primary_color": "#003DA5",
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/danskebank.svg"
-    },
-    {
-      "id": 935,
-      "name": "Credit Agricole",
-      "slug": "credit-agricole",
-      "description": "Credit Agricole visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "France",
-      "industry": "Finance",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Credit Agricole Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Credit Agricole visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 6,
-        "name": "Finance",
-        "slug": "finance",
-        "description": "Banks, fintech, and payment companies."
-      },
-      "colors": [
-        {
-          "id": 93500,
-          "name": "Credit Agricole Primary",
-          "hex": "#009639",
-          "rgb": "rgb(0, 150, 57)",
-          "hsl": "hsl(143, 100%, 29%)",
-          "cmyk": "cmyk(100%, 0%, 62%, 41%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9350,
-          "name": "Credit Agricole Logo",
-          "image_url": "/logos/credit-agricole.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#009639",
-      "primary_logo_url": "/logos/credit-agricole.svg"
     },
     {
       "id": 937,
@@ -39714,53 +38962,6 @@
       ],
       "primary_color": "#00A8E1",
       "primary_logo_url": "/logos/amazon-prime-video.svg"
-    },
-    {
-      "id": 944,
-      "name": "Hulu",
-      "slug": "hulu",
-      "description": "Hulu visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Entertainment",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Hulu Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Hulu visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 8,
-        "name": "Entertainment",
-        "slug": "entertainment",
-        "description": "Studios, streaming, games, and media brands."
-      },
-      "colors": [
-        {
-          "id": 94400,
-          "name": "Hulu Primary",
-          "hex": "#1CE783",
-          "rgb": "rgb(28, 231, 131)",
-          "hsl": "hsl(150, 81%, 51%)",
-          "cmyk": "cmyk(88%, 0%, 43%, 9%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9440,
-          "name": "Hulu Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hulu.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#1CE783",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/hulu.svg"
     },
     {
       "id": 945,
@@ -40938,53 +40139,6 @@
       "primary_logo_url": "/logos/clinique.svg"
     },
     {
-      "id": 971,
-      "name": "Estee Lauder",
-      "slug": "estee-lauder",
-      "description": "Estee Lauder visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Consumer Goods",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Estee Lauder Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Estee Lauder visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 9,
-        "name": "Consumer Goods",
-        "slug": "consumer-goods",
-        "description": "Household, personal care, and appliance brands."
-      },
-      "colors": [
-        {
-          "id": 97100,
-          "name": "Estee Lauder Primary",
-          "hex": "#003DA5",
-          "rgb": "rgb(0, 61, 165)",
-          "hsl": "hsl(218, 100%, 32%)",
-          "cmyk": "cmyk(100%, 63%, 0%, 35%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9710,
-          "name": "Estee Lauder Logo",
-          "image_url": "/logos/estee-lauder.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#003DA5",
-      "primary_logo_url": "/logos/estee-lauder.svg"
-    },
-    {
       "id": 972,
       "name": "MAC Cosmetics",
       "slug": "mac-cosmetics",
@@ -41925,53 +41079,6 @@
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/norwegian.svg"
     },
     {
-      "id": 993,
-      "name": "Finnair",
-      "slug": "finnair",
-      "description": "Finnair visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Finland",
-      "industry": "Airlines",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Finnair Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Finnair visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 7,
-        "name": "Airlines",
-        "slug": "airlines",
-        "description": "Airline, travel, and hospitality brands."
-      },
-      "colors": [
-        {
-          "id": 99300,
-          "name": "Finnair Primary",
-          "hex": "#0B1560",
-          "rgb": "rgb(11, 21, 96)",
-          "hsl": "hsl(233, 79%, 21%)",
-          "cmyk": "cmyk(89%, 78%, 0%, 62%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9930,
-          "name": "Finnair Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/finnair.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#0B1560",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/finnair.svg"
-    },
-    {
       "id": 994,
       "name": "SAS",
       "slug": "sas",
@@ -42724,53 +41831,6 @@
       "primary_logo_url": "/logos/regeneron.svg"
     },
     {
-      "id": 1011,
-      "name": "Gilead Sciences",
-      "slug": "gilead-sciences",
-      "description": "Gilead Sciences visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Healthcare",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Gilead Sciences Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Gilead Sciences visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 12,
-        "name": "Healthcare",
-        "slug": "healthcare",
-        "description": "Pharma, biotech, and health brands."
-      },
-      "colors": [
-        {
-          "id": 101100,
-          "name": "Gilead Sciences Primary",
-          "hex": "#CC0000",
-          "rgb": "rgb(204, 0, 0)",
-          "hsl": "hsl(0, 100%, 40%)",
-          "cmyk": "cmyk(0%, 100%, 100%, 20%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10110,
-          "name": "Gilead Sciences Logo",
-          "image_url": "/logos/gilead-sciences.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#CC0000",
-      "primary_logo_url": "/logos/gilead-sciences.svg"
-    },
-    {
       "id": 1012,
       "name": "Biogen",
       "slug": "biogen",
@@ -43006,53 +42066,6 @@
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/abbvie.svg"
     },
     {
-      "id": 1019,
-      "name": "Eli Lilly",
-      "slug": "eli-lilly",
-      "description": "Eli Lilly visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Healthcare",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Eli Lilly Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Eli Lilly visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 12,
-        "name": "Healthcare",
-        "slug": "healthcare",
-        "description": "Pharma, biotech, and health brands."
-      },
-      "colors": [
-        {
-          "id": 101900,
-          "name": "Eli Lilly Primary",
-          "hex": "#CC0000",
-          "rgb": "rgb(204, 0, 0)",
-          "hsl": "hsl(0, 100%, 40%)",
-          "cmyk": "cmyk(0%, 100%, 100%, 20%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10190,
-          "name": "Eli Lilly Logo",
-          "image_url": "/logos/eli-lilly.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#CC0000",
-      "primary_logo_url": "/logos/eli-lilly.svg"
-    },
-    {
       "id": 1020,
       "name": "Boehringer Ingelheim",
       "slug": "boehringer-ingelheim",
@@ -43147,53 +42160,6 @@
       "primary_logo_url": "/logos/takeda.svg"
     },
     {
-      "id": 1022,
-      "name": "CSL",
-      "slug": "csl",
-      "description": "CSL visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Australia",
-      "industry": "Healthcare",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "CSL Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore CSL visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 12,
-        "name": "Healthcare",
-        "slug": "healthcare",
-        "description": "Pharma, biotech, and health brands."
-      },
-      "colors": [
-        {
-          "id": 102200,
-          "name": "CSL Primary",
-          "hex": "#CC0000",
-          "rgb": "rgb(204, 0, 0)",
-          "hsl": "hsl(0, 100%, 40%)",
-          "cmyk": "cmyk(0%, 100%, 100%, 20%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10220,
-          "name": "CSL Logo",
-          "image_url": "/logos/csl.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#CC0000",
-      "primary_logo_url": "/logos/csl.svg"
-    },
-    {
       "id": 1023,
       "name": "Fresenius",
       "slug": "fresenius",
@@ -43241,53 +42207,6 @@
       "primary_logo_url": "/logos/fresenius.svg"
     },
     {
-      "id": 1024,
-      "name": "Eni",
-      "slug": "eni",
-      "description": "Eni visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Italy",
-      "industry": "Energy",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Eni Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Eni visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 13,
-        "name": "Energy",
-        "slug": "energy",
-        "description": "Oil, gas, and energy companies."
-      },
-      "colors": [
-        {
-          "id": 102400,
-          "name": "Eni Primary",
-          "hex": "#FFD700",
-          "rgb": "rgb(255, 215, 0)",
-          "hsl": "hsl(51, 100%, 50%)",
-          "cmyk": "cmyk(0%, 16%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10240,
-          "name": "Eni Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/eni.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FFD700",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/eni.svg"
-    },
-    {
       "id": 1025,
       "name": "Repsol",
       "slug": "repsol",
@@ -43333,53 +42252,6 @@
       ],
       "primary_color": "#FF6600",
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/repsol.svg"
-    },
-    {
-      "id": 1026,
-      "name": "Equinor",
-      "slug": "equinor",
-      "description": "Equinor visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Norway",
-      "industry": "Energy",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Equinor Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Equinor visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 13,
-        "name": "Energy",
-        "slug": "energy",
-        "description": "Oil, gas, and energy companies."
-      },
-      "colors": [
-        {
-          "id": 102600,
-          "name": "Equinor Primary",
-          "hex": "#E30613",
-          "rgb": "rgb(227, 6, 19)",
-          "hsl": "hsl(356, 95%, 46%)",
-          "cmyk": "cmyk(0%, 97%, 92%, 11%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10260,
-          "name": "Equinor Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/equinor.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#E30613",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/equinor.svg"
     },
     {
       "id": 1027,
@@ -43662,53 +42534,6 @@
       ],
       "primary_color": "#006633",
       "primary_logo_url": "/logos/nextera-energy.svg"
-    },
-    {
-      "id": 1033,
-      "name": "Iberdrola",
-      "slug": "iberdrola",
-      "description": "Iberdrola visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Spain",
-      "industry": "Energy",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "Iberdrola Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Iberdrola visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 13,
-        "name": "Energy",
-        "slug": "energy",
-        "description": "Oil, gas, and energy companies."
-      },
-      "colors": [
-        {
-          "id": 103300,
-          "name": "Iberdrola Primary",
-          "hex": "#00A651",
-          "rgb": "rgb(0, 166, 81)",
-          "hsl": "hsl(149, 100%, 33%)",
-          "cmyk": "cmyk(100%, 0%, 51%, 35%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10330,
-          "name": "Iberdrola Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/iberdrola.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#00A651",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/iberdrola.svg"
     },
     {
       "id": 1034,
@@ -45213,53 +44038,6 @@
       ],
       "primary_color": "#B01C2E",
       "primary_logo_url": "/logos/university-of-bristol.svg"
-    },
-    {
-      "id": 1067,
-      "name": "ETH Zurich",
-      "slug": "eth-zurich",
-      "description": "ETH Zurich visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Switzerland",
-      "industry": "Universities",
-      "founded_year": null,
-      "is_featured": true,
-      "meta_title": "ETH Zurich Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore ETH Zurich visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 16,
-        "name": "Universities",
-        "slug": "universities",
-        "description": "Higher education institutions."
-      },
-      "colors": [
-        {
-          "id": 106700,
-          "name": "ETH Zurich Primary",
-          "hex": "#0078A0",
-          "rgb": "rgb(0, 120, 160)",
-          "hsl": "hsl(195, 100%, 31%)",
-          "cmyk": "cmyk(100%, 25%, 0%, 37%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 10670,
-          "name": "ETH Zurich Logo",
-          "image_url": "/logos/eth-zurich.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#0078A0",
-      "primary_logo_url": "/logos/eth-zurich.svg"
     },
     {
       "id": 1068,

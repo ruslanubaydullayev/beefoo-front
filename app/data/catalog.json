@@ -27637,53 +27637,6 @@
       "primary_logo_url": "/logos/indiana-pacers.svg"
     },
     {
-      "id": 640,
-      "name": "Detroit Pistons",
-      "slug": "detroit-pistons",
-      "description": "Detroit Pistons visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Sports",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Detroit Pistons Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Detroit Pistons visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 11,
-        "name": "Sports",
-        "slug": "sports",
-        "description": "Sports leagues, teams, and athletic brands."
-      },
-      "colors": [
-        {
-          "id": 64000,
-          "name": "Detroit Pistons Primary",
-          "hex": "#C8102E",
-          "rgb": "rgb(200, 16, 46)",
-          "hsl": "hsl(350, 85%, 42%)",
-          "cmyk": "cmyk(0%, 92%, 77%, 22%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 6400,
-          "name": "Detroit Pistons Logo",
-          "image_url": "/logos/detroit-pistons.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#C8102E",
-      "primary_logo_url": "/logos/detroit-pistons.svg"
-    },
-    {
       "id": 641,
       "name": "Orlando Magic",
       "slug": "orlando-magic",
@@ -29094,53 +29047,6 @@
       "primary_logo_url": "/logos/virtus-pro.svg"
     },
     {
-      "id": 728,
-      "name": "GamerLegion",
-      "slug": "gamerlegion",
-      "description": "GamerLegion visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Germany",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "GamerLegion Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore GamerLegion visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 72800,
-          "name": "GamerLegion Primary",
-          "hex": "#FF0000",
-          "rgb": "rgb(255, 0, 0)",
-          "hsl": "hsl(0, 100%, 50%)",
-          "cmyk": "cmyk(0%, 100%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7280,
-          "name": "GamerLegion Logo",
-          "image_url": "/logos/gamerlegion.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FF0000",
-      "primary_logo_url": "/logos/gamerlegion.svg"
-    },
-    {
       "id": 729,
       "name": "BIG",
       "slug": "big",
@@ -30549,53 +30455,6 @@
       ],
       "primary_color": "#0066CC",
       "primary_logo_url": "/logos/paradox-interactive.svg"
-    },
-    {
-      "id": 761,
-      "name": "Frontier Developments",
-      "slug": "frontier-developments",
-      "description": "Frontier Developments visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United Kingdom",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Frontier Developments Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Frontier Developments visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 76100,
-          "name": "Frontier Developments Primary",
-          "hex": "#003DA5",
-          "rgb": "rgb(0, 61, 165)",
-          "hsl": "hsl(218, 100%, 32%)",
-          "cmyk": "cmyk(100%, 63%, 0%, 35%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7610,
-          "name": "Frontier Developments Logo",
-          "image_url": "/logos/frontier-developments.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#003DA5",
-      "primary_logo_url": "/logos/frontier-developments.svg"
     },
     {
       "id": 762,
@@ -32899,53 +32758,6 @@
       ],
       "primary_color": "#FFB6C1",
       "primary_logo_url": "/logos/miu-miu.svg"
-    },
-    {
-      "id": 822,
-      "name": "Fendi",
-      "slug": "fendi-fashion",
-      "description": "Fendi visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Italy",
-      "industry": "Fashion",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Fendi Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Fendi visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 2,
-        "name": "Fashion",
-        "slug": "fashion",
-        "description": "Apparel, luxury, and lifestyle brands."
-      },
-      "colors": [
-        {
-          "id": 82200,
-          "name": "Fendi Primary",
-          "hex": "#FFD700",
-          "rgb": "rgb(255, 215, 0)",
-          "hsl": "hsl(51, 100%, 50%)",
-          "cmyk": "cmyk(0%, 16%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8220,
-          "name": "Fendi Logo",
-          "image_url": "/logos/fendi-fashion.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FFD700",
-      "primary_logo_url": "/logos/fendi-fashion.svg"
     },
     {
       "id": 823,
@@ -35298,53 +35110,6 @@
       "primary_logo_url": "/logos/great-wall-motors.svg"
     },
     {
-      "id": 884,
-      "name": "Geely Auto",
-      "slug": "geely-auto",
-      "description": "Geely Auto visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Automotive",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Geely Auto Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Geely Auto visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 4,
-        "name": "Automotive",
-        "slug": "automotive",
-        "description": "Car makers and mobility brands."
-      },
-      "colors": [
-        {
-          "id": 88400,
-          "name": "Geely Auto Primary",
-          "hex": "#003DA5",
-          "rgb": "rgb(0, 61, 165)",
-          "hsl": "hsl(218, 100%, 32%)",
-          "cmyk": "cmyk(100%, 63%, 0%, 35%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8840,
-          "name": "Geely Auto Logo",
-          "image_url": "/logos/geely-auto.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#003DA5",
-      "primary_logo_url": "/logos/geely-auto.svg"
-    },
-    {
       "id": 885,
       "name": "SAIC Motor",
       "slug": "saic-motor",
@@ -37458,53 +37223,6 @@
       ],
       "primary_color": "#FF6600",
       "primary_logo_url": "/logos/swedbank.svg"
-    },
-    {
-      "id": 934,
-      "name": "Danske Bank",
-      "slug": "danske-bank",
-      "description": "Danske Bank visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Denmark",
-      "industry": "Finance",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Danske Bank Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Danske Bank visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 6,
-        "name": "Finance",
-        "slug": "finance",
-        "description": "Banks, fintech, and payment companies."
-      },
-      "colors": [
-        {
-          "id": 93400,
-          "name": "Danske Bank Primary",
-          "hex": "#003DA5",
-          "rgb": "rgb(0, 61, 165)",
-          "hsl": "hsl(218, 100%, 32%)",
-          "cmyk": "cmyk(100%, 63%, 0%, 35%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 9340,
-          "name": "Danske Bank Logo",
-          "image_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/danskebank.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#003DA5",
-      "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/danskebank.svg"
     },
     {
       "id": 937,

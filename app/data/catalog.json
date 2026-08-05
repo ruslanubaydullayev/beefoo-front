@@ -27637,53 +27637,6 @@
       "primary_logo_url": "/logos/indiana-pacers.svg"
     },
     {
-      "id": 639,
-      "name": "Cleveland Cavaliers",
-      "slug": "cleveland-cavaliers",
-      "description": "Cleveland Cavaliers visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Sports",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Cleveland Cavaliers Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Cleveland Cavaliers visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 11,
-        "name": "Sports",
-        "slug": "sports",
-        "description": "Sports leagues, teams, and athletic brands."
-      },
-      "colors": [
-        {
-          "id": 63900,
-          "name": "Cleveland Cavaliers Primary",
-          "hex": "#860038",
-          "rgb": "rgb(134, 0, 56)",
-          "hsl": "hsl(335, 100%, 26%)",
-          "cmyk": "cmyk(0%, 100%, 58%, 47%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 6390,
-          "name": "Cleveland Cavaliers Logo",
-          "image_url": "/logos/cleveland-cavaliers.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#860038",
-      "primary_logo_url": "/logos/cleveland-cavaliers.svg"
-    },
-    {
       "id": 640,
       "name": "Detroit Pistons",
       "slug": "detroit-pistons",
@@ -27870,53 +27823,6 @@
       ],
       "primary_color": "#E03A3E",
       "primary_logo_url": "/logos/atlanta-hawks.svg"
-    },
-    {
-      "id": 644,
-      "name": "Charlotte Hornets",
-      "slug": "charlotte-hornets",
-      "description": "Charlotte Hornets visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Sports",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Charlotte Hornets Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Charlotte Hornets visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 11,
-        "name": "Sports",
-        "slug": "sports",
-        "description": "Sports leagues, teams, and athletic brands."
-      },
-      "colors": [
-        {
-          "id": 64400,
-          "name": "Charlotte Hornets Primary",
-          "hex": "#1D1160",
-          "rgb": "rgb(29, 17, 96)",
-          "hsl": "hsl(249, 70%, 22%)",
-          "cmyk": "cmyk(70%, 82%, 0%, 62%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 6440,
-          "name": "Charlotte Hornets Logo",
-          "image_url": "/logos/charlotte-hornets.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#1D1160",
-      "primary_logo_url": "/logos/charlotte-hornets.svg"
     },
     {
       "id": 647,
@@ -30316,53 +30222,6 @@
       "primary_logo_url": "/logos/scopely.svg"
     },
     {
-      "id": 753,
-      "name": "Behaviour Interactive",
-      "slug": "behaviour-interactive",
-      "description": "Behaviour Interactive visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Canada",
-      "industry": "Gaming",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Behaviour Interactive Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Behaviour Interactive visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 15,
-        "name": "Gaming",
-        "slug": "gaming",
-        "description": "Game publishers and interactive entertainment."
-      },
-      "colors": [
-        {
-          "id": 75300,
-          "name": "Behaviour Interactive Primary",
-          "hex": "#000000",
-          "rgb": "rgb(0, 0, 0)",
-          "hsl": "hsl(0, 0%, 0%)",
-          "cmyk": "cmyk(0%, 0%, 0%, 100%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7530,
-          "name": "Behaviour Interactive Logo",
-          "image_url": "/logos/behaviour-interactive.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#000000",
-      "primary_logo_url": "/logos/behaviour-interactive.svg"
-    },
-    {
       "id": 754,
       "name": "Crytek",
       "slug": "crytek",
@@ -32008,53 +31867,6 @@
       "primary_logo_url": "https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/fortinet.svg"
     },
     {
-      "id": 791,
-      "name": "Check Point",
-      "slug": "check-point",
-      "description": "Check Point visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "Israel",
-      "industry": "Technology",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Check Point Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Check Point visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 1,
-        "name": "Technology",
-        "slug": "technology",
-        "description": "Software, hardware, and digital platforms."
-      },
-      "colors": [
-        {
-          "id": 79100,
-          "name": "Check Point Primary",
-          "hex": "#EE3124",
-          "rgb": "rgb(238, 49, 36)",
-          "hsl": "hsl(4, 86%, 54%)",
-          "cmyk": "cmyk(0%, 79%, 85%, 7%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 7910,
-          "name": "Check Point Logo",
-          "image_url": "/logos/check-point.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#EE3124",
-      "primary_logo_url": "/logos/check-point.svg"
-    },
-    {
       "id": 792,
       "name": "Zscaler",
       "slug": "zscaler",
@@ -33698,53 +33510,6 @@
       ],
       "primary_color": "#CC0000",
       "primary_logo_url": "/logos/outback-steakhouse.svg"
-    },
-    {
-      "id": 839,
-      "name": "Cheesecake Factory",
-      "slug": "cheesecake-factory",
-      "description": "Cheesecake Factory visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "United States",
-      "industry": "Food",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Cheesecake Factory Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Cheesecake Factory visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 3,
-        "name": "Food",
-        "slug": "food",
-        "description": "Food and beverage brands."
-      },
-      "colors": [
-        {
-          "id": 83900,
-          "name": "Cheesecake Factory Primary",
-          "hex": "#FFD700",
-          "rgb": "rgb(255, 215, 0)",
-          "hsl": "hsl(51, 100%, 50%)",
-          "cmyk": "cmyk(0%, 16%, 100%, 0%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8390,
-          "name": "Cheesecake Factory Logo",
-          "image_url": "/logos/cheesecake-factory.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#FFD700",
-      "primary_logo_url": "/logos/cheesecake-factory.svg"
     },
     {
       "id": 840,
@@ -35531,53 +35296,6 @@
       ],
       "primary_color": "#CC0000",
       "primary_logo_url": "/logos/great-wall-motors.svg"
-    },
-    {
-      "id": 883,
-      "name": "Chery Auto",
-      "slug": "chery-auto",
-      "description": "Chery Auto visual identity — brand colors, fonts, and logos on BeeFoo.",
-      "website_url": null,
-      "country": "China",
-      "industry": "Automotive",
-      "founded_year": null,
-      "is_featured": false,
-      "meta_title": "Chery Auto Brand Colors, Fonts & Logos | BeeFoo",
-      "meta_description": "Explore Chery Auto visual identity: brand colors, HEX/RGB/HSL/CMYK codes, fonts, and logos on BeeFoo.",
-      "created_at": "2026-08-02T09:00:00.000000+00:00",
-      "updated_at": "2026-08-02T09:00:00.000000+00:00",
-      "category": {
-        "id": 4,
-        "name": "Automotive",
-        "slug": "automotive",
-        "description": "Car makers and mobility brands."
-      },
-      "colors": [
-        {
-          "id": 88300,
-          "name": "Chery Auto Primary",
-          "hex": "#CC0000",
-          "rgb": "rgb(204, 0, 0)",
-          "hsl": "hsl(0, 100%, 40%)",
-          "cmyk": "cmyk(0%, 100%, 100%, 20%)",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "fonts": [],
-      "logos": [
-        {
-          "id": 8830,
-          "name": "Chery Auto Logo",
-          "image_url": "/logos/chery-auto.svg",
-          "format": "svg",
-          "variant": "icon",
-          "is_primary": true,
-          "sort_order": 0
-        }
-      ],
-      "primary_color": "#CC0000",
-      "primary_logo_url": "/logos/chery-auto.svg"
     },
     {
       "id": 884,
